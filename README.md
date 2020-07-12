@@ -27,9 +27,9 @@ const name =  {
   
 ### Problem Solving
 
-  > C, C++17<br>
-  > Node.js<br>
   > Data Structure, Algorithm<br>
+  > with C, C++17, [Node.js](https://nodejs.org)<br>
+  > *in [Codeforces](http://codeforces.com/profile/nlog), [baekjoon](https://www.acmicpc.net/user/chansol), and [codeup](https://codeup.kr/userinfo.php?user=chansol)*<br>
   
 ## TODO
 * [ ] Flutter
