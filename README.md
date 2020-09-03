@@ -33,11 +33,11 @@ const name =  {
   
 ## TODO
 * [ ] Flutter
-* [ ] Kotlin
 * [ ] Electron
 * [ ] React
-* [ ] Swift
+* [ ] Kotlin
 * [ ] Tensorflow.js
+* [ ] Swift
 
 ## Links
 * <b>홈페이지: </b> [nlog.dnhs.me](https://nlog.dnhs.me/)
