@@ -1,5 +1,5 @@
 # Intro
-[![contact](https://badgen.net/badge/telegram/nnnlog/cyan?icon=telegram)](https://t.me/nnnlog) 
+[![contact](https://badgen.net/badge/telegram/nnnlog/cyan?icon=telegram)](https://t.me/nnnlog)
 ```js
 const name =  {
 	name: "박찬솔",
@@ -9,7 +9,9 @@ const name =  {
 		"nnnlog"
 	]
 };
-```
+``` 
+
+[![Github Profile](https://github-readme-stats.vercel.app/api?username=nnnlog&count_private=true&show_icons=true&theme=radical)](https://github.com/nnnlog)
 
 
 ## 관심 분야
@@ -30,6 +32,8 @@ const name =  {
   > Data Structure, Algorithm<br>
   > with C, C++17, [Node.js](https://nodejs.org)<br>
   > *in [Codeforces](http://codeforces.com/profile/nlog), [baekjoon](https://www.acmicpc.net/user/chansol), and [codeup](https://codeup.kr/userinfo.php?user=chansol)*<br>
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chansol)](https://solved.ac/chansol)
   
 ### APP
 * Flutter (Dart)
