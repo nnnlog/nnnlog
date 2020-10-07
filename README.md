@@ -30,7 +30,7 @@ const name =  {
 ### Problem Solving
 
   > Data Structure, Algorithm<br>
-  > with C, C++17, [Node.js](https://nodejs.org)<br>
+  > with C11, C++17, [Node.js](https://nodejs.org)<br>
   > *in [Codeforces](http://codeforces.com/profile/nlog), [baekjoon](https://www.acmicpc.net/user/chansol), and [codeup](https://codeup.kr/userinfo.php?user=chansol)*<br>
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chansol)](https://solved.ac/chansol)
@@ -48,7 +48,7 @@ const name =  {
 ## Links
 * <b>홈페이지: </b> [nlog.dnhs.me](https://nlog.dnhs.me/)
 * <b>연락처(Telegram): </b> [@nnnlog](https://t.me/nnnlog)
-* <b>블로그: </b> [sorisem4106.blog.me](https://sorisem4106.blog.me/)
+* <b>블로그: </b> [nnnlog.tistory.com](http://nnnlog.tistory.com/)
 * <b>메일: </b> sorisem4106@naver.com
 * <b>CodeUp: </b>[chansol](https://codeup.kr/userinfo.php?user=chansol)
 * <b>Baekjoon: </b>[chansol](https://www.acmicpc.net/user/chansol)
