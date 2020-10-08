@@ -47,7 +47,6 @@ const name =  {
 
 ## Links
 * <b>홈페이지: </b> [nlog.dnhs.me](https://nlog.dnhs.me/)
-* <b>연락처(Telegram): </b> [@nnnlog](https://t.me/nnnlog)
 * <b>블로그: </b> [nnnlog.tistory.com](http://nnnlog.tistory.com/)
 * <b>메일: </b> sorisem4106@naver.com
 * <b>CodeUp: </b>[chansol](https://codeup.kr/userinfo.php?user=chansol)
