@@ -39,10 +39,11 @@ const name =  {
 * Flutter (Dart)
 
 ## TODO
+* [ ] Tensorflow and AI
+* [ ] Tensorflow.js
 * [ ] Electron
 * [ ] React
 * [ ] Kotlin
-* [ ] Tensorflow.js
 * [ ] Swift
 
 ## Links
