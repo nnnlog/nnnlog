@@ -1,8 +1,8 @@
 # Intro
 [![contact](https://badgen.net/badge/telegram/nnnlog/cyan?icon=telegram)](https://t.me/nnnlog)
 ```js
-const name =  {
-	name: "박찬솔",
+const knownAs =  {
+	id: "nlog",
 	aka: [
 		"엔로그",
 		"nlog",
