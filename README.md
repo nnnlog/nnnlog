@@ -36,7 +36,8 @@ const knownAs =  {
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chansol)](https://solved.ac/chansol)
   
 ### APP
-* Flutter (Dart)
+* Flutter (Dart), Android
+* nw.js, Windows/Linux
 
 ## TODO
 * [ ] Tensorflow and AI
