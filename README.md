@@ -1,11 +1,10 @@
 # Intro
 [![contact](https://badgen.net/badge/telegram/nnnlog/cyan?icon=telegram)](https://t.me/nnnlog)
 ```js
-const knownAs =  {
+const NAME = {
 	id: "nlog",
 	aka: [
 		"엔로그",
-		"nlog",
 		"nnnlog"
 	]
 };
