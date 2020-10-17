@@ -39,7 +39,7 @@ const NAME = {
 * nw.js, Windows/Linux
 
 ## TODO
-* [ ] Tensorflow and AI
+* [ ] Tensorflow (Python)
 * [ ] Tensorflow.js
 * [ ] Electron
 * [ ] React
