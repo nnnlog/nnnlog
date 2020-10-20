@@ -36,10 +36,10 @@
   
 ### APP
 * Flutter (Dart), Android
-* nw.js, Windows/Linux
+* nw.js
 
 ## TODO
-* [ ] Tensorflow (Python)
+* [ ] Tensorflow
 * [ ] Tensorflow.js
 * [ ] Electron
 * [ ] React
