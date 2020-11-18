@@ -23,7 +23,7 @@
   
 * Backend
 
-  > Node.js (express, mongodb, EJS)<br>
+  > Node.js (express, mongodb, EJS, SQL...)<br>
   > PHP 7.4(Apache, Command Line Interface[[amphp/http-server](https://github.com/amphp/http-server)]), MySQL, PHP-CPP<br>
   
 ### Problem Solving
