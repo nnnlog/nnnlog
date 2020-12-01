@@ -47,9 +47,9 @@
 * [ ] Swift
 
 ## Links
-* <b>홈페이지: </b> [nlog.dnhs.me](https://nlog.dnhs.me/)
-* <b>블로그: </b> [nnnlog.tistory.com](http://nnnlog.tistory.com/)
-* <b>메일: </b> sorisem4106@naver.com
+* <b>Homepage: </b> [nlog.dev](https://nlog.dev/)
+* <b>Blog: </b> [nnnlog.tistory.com](http://nnnlog.tistory.com/)
+* <b>Mail: </b> sorisem4106@naver.com
 * <b>CodeUp: </b>[chansol](https://codeup.kr/userinfo.php?user=chansol)
 * <b>Baekjoon: </b>[chansol](https://www.acmicpc.net/user/chansol)
 * <b>Solved.ac: </b>[chansol](https://solved.ac/chansol)
