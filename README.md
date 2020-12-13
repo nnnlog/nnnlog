@@ -32,7 +32,7 @@
   > with C11, C++17, [Node.js](https://nodejs.org)<br>
   > *in [Codeforces](http://codeforces.com/profile/nlog), [baekjoon](https://www.acmicpc.net/user/chansol), and [codeup](https://codeup.kr/userinfo.php?user=chansol)*<br>
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chansol)](https://solved.ac/chansol)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chansol)](https://solved.ac/profile/chansol)
   
 ### APP
 * Flutter (Dart), Android
@@ -52,5 +52,5 @@
 * <b>Mail: </b> sorisem4106@naver.com
 * <b>CodeUp: </b>[chansol](https://codeup.kr/userinfo.php?user=chansol)
 * <b>Baekjoon: </b>[chansol](https://www.acmicpc.net/user/chansol)
-* <b>Solved.ac: </b>[chansol](https://solved.ac/chansol)
+* <b>Solved.ac: </b>[chansol](https://solved.ac/profile/chansol)
 * <b>Codeforces: </b>[nlog](http://codeforces.com/profile/nlog)
