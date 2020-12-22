@@ -36,7 +36,7 @@
   
 ### APP
 * Flutter (Dart), Android
-* nw.js
+* nw.js, electron
 
 ## TODO
 * [ ] Tensorflow
