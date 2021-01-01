@@ -29,7 +29,7 @@
 ### Problem Solving
 
   > Data Structure, Algorithm<br>
-  > with C11, C++17, [Node.js](https://nodejs.org)<br>
+  > with C, C++, [Node.js](https://nodejs.org)<br>
   > *in [Codeforces](http://codeforces.com/profile/nlog), [baekjoon](https://www.acmicpc.net/user/chansol), and [codeup](https://codeup.kr/userinfo.php?user=chansol)*<br>
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chansol)](https://solved.ac/profile/chansol)
