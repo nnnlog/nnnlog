@@ -12,7 +12,7 @@
 
 ## 관심 분야
 ### 웹
-* Vue를 활용한 프론트엔드 개발
+* Vue와 Flutter를 활용한 프론트엔드 개발
 * Node.js ~~(, PHP)~~ 를 활용한 백엔드 개발
   
 ### Problem Solving
