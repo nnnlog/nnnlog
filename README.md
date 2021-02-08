@@ -17,8 +17,10 @@
   
 ### Problem Solving
 * 알고리즘, 자료구조 공부를 좋아합니다!
-#### 솔브드 프로필
+#### Solved.ac 프로필
 [![solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chansol)](https://solved.ac/profile/chansol)
+#### Codeforces 프로필
+[![solved.ac Profile](https://cf.leed.at/?id=nlog)](https://codeforces.com/profile/nlog)
   
 ### APP
  * 플러터를 활용한 앱 개발
