@@ -13,7 +13,7 @@
 ## 관심 분야
 
 ### 알고리즘
-* 알고리즘, 자료구조 공부를 좋아합니다.
+* 알고리즘, 자료구조를 공부하고 있습니다.
 #### Solved.ac 프로필
 [![solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chansol)](https://solved.ac/profile/chansol)
 #### Codeforces 프로필
