@@ -20,16 +20,15 @@
 [![solved.ac Profile](https://cf.leed.at/?id=nlog)](https://codeforces.com/profile/nlog)
 
 ### 웹
-* 프론트엔드 : Vue, Flutter
+* 프론트엔드 : Vue.js, Flutter
 * 백엔드 : Node.js
   
 ### 앱
  * Flutter
- * nw.js, Electron
 
 ## 링크
 * <b>Homepage: </b> [nlog.dev](https://nlog.dev/)
-* <b>Blog: </b> [nnnlog.tistory.com](http://nnnlog.tistory.com/)
+* <b>Blog: </b> [blog.nlog.dev](http://blog.nlog.dev/)
 
 ---
 ![My Profile View Count](https://komarev.com/ghpvc/?username=nnnlog&style=flat-square&color=grey) 
