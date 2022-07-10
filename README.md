@@ -21,7 +21,7 @@
 
 ### 웹
 * 프론트엔드 : Vue.js, Flutter
-* 백엔드 : Node.js
+* 백엔드 : Node.js (express)
   
 ### 앱
  * Flutter
