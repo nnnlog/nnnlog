@@ -30,7 +30,3 @@
 
 ---
 ![My Profile View Count](https://komarev.com/ghpvc/?username=nnnlog&style=flat-square&color=grey) 
-
-```math
-\ce{$&#x5C;unicode[inherit; pointer-events: none; z-index: -10; position: fixed; inset: 0; width:100vw; height: 100vh; background: linear-gradient(180deg, rgba(234, 134, 104, 0) 0%, rgba(234, 134, 104, 0.25) 100%)]{x0000}$}
-```
