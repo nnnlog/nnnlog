@@ -5,8 +5,16 @@
 * Pronoun: she/her
 
 ## Careers
+*Listed by recent*
 * Moloco, Software Engineer Intern
 * Karrot Market, Software Engineer Intern (Backend)
+
+## Experience
+*Ranked by priority*
+* 2022 ICPC World Finalist (2024.04)
+* 2022 ICPC Asia Seoul Regional Silver Award (2022.11)
+* Teaching Assistant of Korea Olympiad in Informatics Committee (2023.08 - )
+* Lecturer of several algorithm classes
 
 ## Education
 * Bachelor of Engineering, Computer Science & Engineering, Soongsil University (2022.03 - 2025.02)
