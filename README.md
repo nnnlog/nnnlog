@@ -1,16 +1,15 @@
 # Chansol Park
+* Alternative names : solrin, nlog
 
 ## Information
 * Place : Seoul, Republic of Korea
 * Pronoun: she/her
 
-## Careers
-*Listed by recent*
+## Employment
 * Moloco, Software Engineer Intern
 * Karrot Market, Software Engineer Intern (Backend)
 
 ## Experience
-*Ranked by priority*
 * 2022 ICPC World Finalist (2024.04)
 * 2022 ICPC Asia Seoul Regional Silver Award (2022.11)
 * Teaching Assistant of Korea Olympiad in Informatics Committee (2023.08 - )
@@ -21,7 +20,7 @@
 
 ## Interesting / Available Technology
 * Backend : Node.js, Kotlin
-* Frontend (elementary) : Vue.js, Solid.js
+* Frontend : Vue.js, Solid.js
 * Mobile Application : Flutter
 
 ## Maintaining Projects
