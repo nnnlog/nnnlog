@@ -1,8 +1,8 @@
-# Chansol Park
+# Chansol (Solrin) Park
 * Alternative names : solrin, nlog
 
 ## Information
-* Place : Seoul, Republic of Korea
+* Location : Seoul, Republic of Korea
 * Pronoun: she/her
 
 ## Employments
@@ -10,11 +10,11 @@
 * Karrot Market, Software Engineer Intern (Backend)
 
 ## Experiences
-* 2022 ICPC World Finalist (2024.04)
+* The 47<sup>th</sup> ICPC World Finalist (2024.04)
 * Silver Award, 2022 ICPC Asia Seoul Regional (2022.11)
 * Teaching Assistant, Korea Olympiad in Informatics Committee (2023.08 - )
 
-## Education
+## Educations
 * Bachelor of Engineering, Computer Science & Engineering, Soongsil University (2022.03 - 2025.02)
 * GPA 4.29 / 4.50 (Rank 2/77)
 
