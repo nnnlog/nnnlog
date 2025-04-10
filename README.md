@@ -16,7 +16,8 @@
 
 ## Educations
 * Bachelor of Engineering, Computer Science & Engineering, Soongsil University (2022.03 - 2025.02)
-* GPA 4.29 / 4.50 (Rank 2/77)
+* GPA 4.29 / 4.50 (Graduation Rank 2/77)
+* Early graduation in 6 semesters.
 
 ## External Links
 * <b>Homepage : </b> [nlog.dev](https://nlog.dev/)
