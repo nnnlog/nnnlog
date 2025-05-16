@@ -6,6 +6,7 @@
 * Pronoun: she/her
 
 ## Employments
+* Google, Software Engineer
 * Moloco, Software Engineer Intern
 * Karrot Market, Software Engineer Intern (Backend)
 
